@@ -2,16 +2,30 @@
   {
     "name": "Tachiyomi: Hiirbaf",
     "pkg": "eu.kanade.tachiyomi.extension.all.hiirbaf",
-    "apk": "tachiyomi-all.hiirbaf-v1.4.25-release.apk",
+    "apk": "tachiyomi-all.hiirbaf-v1.4.25.apk",
     "lang": "all",
-    "code": 1,
+    "code": 25,
     "version": "1.4.25",
     "nsfw": 0,
     "sources": [
       {
         "name": "Hiirbaf",
+        "lang": "en",
+        "id": "5518128859140312462",
+        "baseUrl": "https://cubari.moe",
+        "versionId": 1
+      },
+      {
+        "name": "Hiirbaf",
         "lang": "all",
-        "id": "4670975400215411904",
+        "id": "4836684620403863007",
+        "baseUrl": "https://cubari.moe",
+        "versionId": 1
+      },
+      {
+        "name": "Hiirbaf",
+        "lang": "other",
+        "id": "6126270790030116893",
         "baseUrl": "https://cubari.moe",
         "versionId": 1
       }
