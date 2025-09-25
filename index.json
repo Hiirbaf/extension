@@ -2,10 +2,10 @@
   {
     "name": "Tachiyomi: Hiirbaf",
     "pkg": "eu.kanade.tachiyomi.extension.all.hiirbaf",
-    "apk": "tachiyomi-all.hiirbaf-v1.4.25.apk",
+    "apk": "tachiyomi-all.hiirbaf-v1.4.1.apk",
     "lang": "all",
-    "code": 25,
-    "version": "1.4.25",
+    "code": 1,
+    "version": "1.4.1",
     "nsfw": 0,
     "sources": [
       {
